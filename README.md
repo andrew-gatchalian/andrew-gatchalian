@@ -43,6 +43,9 @@ A collaborative project that leverages machine learning to suggest anime titles 
 - **Sun County Airlines Case Study**, (Summer 2023)
 Unsupervised clustering to identify customer segments for targeted marketing strategies to boost loyalty.
 
+- **Fresno Pacific University (Cal Grant Rosterizer, Grade Level Updater)**, (2023)
+Developed and implemented automated processes in Python to enhance student awarding efficiency.
+
 - **Digital Content Creator**, (6/2020 - Present)
 Achieved 1.9 million views on YouTube through digital marketing and content creation.
 
