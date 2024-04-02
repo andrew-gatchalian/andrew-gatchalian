@@ -62,7 +62,7 @@ Analyzed a vocational training program's impact, reporting wage increases and pr
 - Email: agatcha1@uci.edu
 - LinkedIn: [Andrew Gatchalian](https://www.linkedin.com/in/andrewgatchalian)
 - Kaggle: [Andrew's Kaggle](https://www.kaggle.com/andrewgatchalian)
-- GitHub: [Andrew's Projects](https://github.com/andrewgatchalian)
+- GitHub: [Andrew's Projects](https://github.com/andrew-gatchalian)
 
 ## 📣 Open to Opportunities
 
