@@ -57,7 +57,7 @@ Analyzed a vocational training program's impact, reporting wage increases and pr
 - **Technical**: Python, R, SQL, C++, Tableau, IBM SPSS, Jupyter Notebook, Microsoft Office Suite (Excel, PowerPoint, Word, Access)...
 - **Libraries & Frameworks**: ggplot2, Beautiful Soup, Application Programming Interfaces (API), K-Nearest Neighbors (KNN)...
 
-## 🌐 Online Presence
+## 🌐 Links
 
 - Email: agatcha1@uci.edu
 - LinkedIn: [Andrew Gatchalian](https://www.linkedin.com/in/andrewgatchalian)
