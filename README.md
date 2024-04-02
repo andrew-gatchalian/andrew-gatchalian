@@ -9,7 +9,7 @@ Excited to utilize my skills in Python, R, and SQL to create data-driven solutio
 ## 📚 Education
 
 - **Master of Science in Business Analytics**, University of California, Irvine - The Paul Merage School of Business, (2023-2024)
-- **Bachelor of Arts in Economics**, California State University, Fresno, (2016-2020). Magna Cum Laude.
+- **Bachelor of Arts in Economics, Minor in Computer Science**, California State University, Fresno, (2016-2020). Magna Cum Laude.
 
 ## 💼 Experience
 
