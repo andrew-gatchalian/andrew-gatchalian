@@ -46,7 +46,7 @@ Unsupervised clustering to identify customer segments for targeted marketing str
 - **Cal Grant Rosterizer, Grade Level Updater**, (2023)
 Developed and implemented automated processes in Python to enhance student awarding efficiency for Fresno Pacific University.
 
-- **Digital Content Creator**, (6/2020 - Present)
+- **Digital Content Creator**, (2020-2023)
 Achieved 1.9 million views on YouTube through digital marketing and content creation.
 
 - **Then & Now Project**, (Summer 2019)
@@ -54,8 +54,8 @@ Analyzed a vocational training program's impact, reporting wage increases and pr
 
 ## 👨‍💻 Skills
 
-- **Technical**: Python, R, SQL, C++, Tableau, IBM SPSS, Jupyter Notebook, Microsoft Office Suite (Excel, PowerPoint, Word, Access)...
-- **Libraries & Frameworks**: ggplot2, Beautiful Soup, Application Programming Interfaces (API), K-Nearest Neighbors (KNN)...
+- **Technical**: Python, R, SQL, C++, Tableau, IBM SPSS, Jupyter Notebook, Microsoft Office Suite (Excel, PowerPoint, Word, Access), Cassandra
+- **Libraries & Frameworks**: ggplot2, Beautiful Soup, Application Programming Interfaces (API), K-Nearest Neighbors (KNN), Scikit-learn, Matplotlib, NumPy, Forecasting, NLP, Seaborn, Pandas
 
 ## 🌐 Links
 
