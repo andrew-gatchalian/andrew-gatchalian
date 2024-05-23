@@ -31,6 +31,9 @@ Consulted departments on data practices for integrating a new agency database an
 
 ## 🚀 Projects & Activities
 
+- **Pneumonia Detection**, (Spring 2024)
+Developed a TensorFlow-based neural network for classifying pneumonia in chest x-rays with up to 90% accuracy to enhance diagnostic precision in medical imaging.
+
 - **Predicting Adoption Success in Animal Shelters**, (Winter 2024)
 Utilized Python and R to analyze and model data, aiming to improve adoption rates in shelters.
 
