@@ -14,8 +14,8 @@ Excited to utilize my skills in Python, R, and SQL to create data-driven solutio
 ## 💼 Experience
 
 **Kaiser Permanente**  
-*Student Data Analyst* (Jan 2024 - Present)  
-Engaging in advanced data analysis and analytics projects, supporting Kaiser Permanente's mission to deliver high-quality healthcare.
+*Student Data Analyst* (Jan 2024 - Jul 2024)  
+Engaging in advanced data analysis and analytics projects, supporting Kaiser Permanente's mission to deliver high-quality healthcare. [Demo Video](https://www.youtube.com/watch?v=gV4U735i8rA)
 
 **Fresno Pacific University**  
 *SFS Analyst* (Oct 2021 - Jul 2023)  
