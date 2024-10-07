@@ -2,7 +2,7 @@
 
 **`Data Analyst (UCI MSBA'24|Technology|Education|Healthcare)`** 
 
-Hello there! I'm Andrew, a graduate student at the University of California, Irvine, pursuing a Master of Science in Business Analytics (MSBA), class of '24. With a background in Economics and a minor in Computer Science from CSU Fresno, I've devoted my career to leveraging data to drive meaningful change in higher education and non-profit sectors. 
+Hello there! I'm Andrew, a graduate of UC Irvine's Master of Science in Business Analytics (MSBA) program, class of '24. With a background in Economics and a minor in Computer Science from CSU Fresno, I've devoted my career to leveraging data to drive meaningful change in higher education and non-profit sectors. 
 
 Excited to utilize my skills in Python, R, and SQL to create data-driven solutions that benefit our communities!
 
